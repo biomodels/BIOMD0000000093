@@ -1,3 +1,21 @@
+# BIOMD0000000093: Yamada2003_JAK_STAT_Pathway
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000093.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000093.git@20140916`
+
+
+# Model Notes
 
 
 _NCBS Curation Comments_ This model shows the control mechanism of Jak-Stat
@@ -21,4 +39,5 @@ This model originates from BioModels Database: A Database of Annotated
 Published Models. It is copyright (c) 2005-2006 The BioModels Team.  
 For more information see the [terms of
 use](http://www.ebi.ac.uk/biomodels/legal.html) .
+
 
